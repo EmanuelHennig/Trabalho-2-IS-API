@@ -1,6 +1,6 @@
 # API de Cursos e Matrículas
 
-**Aluno:** Guilherme
+**Alunos:** Emanuel Hennig e Guilherme Lago 
 
 API REST do Trabalho Prático 2 para cadastrar cursos, alunos e matrículas. Desenvolvida com Java 21, Spring Boot, Spring Data JPA, Bean Validation, Lombok e banco H2.
 
